@@ -5,18 +5,22 @@ A Sequence Editing workspace for Blender with add-ons included.
 
 Bligify
 
-ExportEDL
+EDL Export
 
-Playback_controls_in_VSE_header
+EDL Import
+
+Playback Controls In Vse Header
 
 Subsimport
 
-VSE_Easy_Proxy
+Vse Easy Proxy
 
-VSE_Transform_Tools
+Vse Transform Tools
 
-freesound
+Freesound
 
-import_edl
+Push To Talk
 
-push_to_talk
+
+# Screenshot
+![alt text](https://github.com/tin2tin/Sequence_Editing/blob/main/Sequence_Editing.png?raw=true)
