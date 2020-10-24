@@ -51,6 +51,8 @@ def load_handler(dummy):
             filter_glob="*.py;*.zip",
         )
     enableTheseAddons = [
+        "power_sequencer", 
+        "space_sequencer",    
         "Playback_controls_in_VSE_header",
         "VSE_Easy_Proxy",
         "push_to_talk",
