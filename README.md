@@ -17,7 +17,7 @@ Vse Easy Proxy https://github.com/cgvirus/blender-vse-easy-proxy
 
 Vse Transform Tools https://github.com/doakey3/VSE_Transform_Tools
 
-Freesound https://github.com/iwkse/freesound
+Freesound https://github.com/iwkse/freesound CURRENTLY DISABLED
 
 Push To Talk https://github.com/britalmeida/push_to_talk
 
