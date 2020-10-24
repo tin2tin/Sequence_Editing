@@ -13,13 +13,13 @@ Playback Controls In Vse Header
 
 Subsimport https://github.com/doakey3/Subsimport
 
-Vse Easy Proxy https://github.com/cgvirus/blender-vse-easy-proxy
+Vse Easy Proxy https://github.com/cgvirus/blender-vse-easy-proxy Will need ffmpeg path in Preferences.
 
 Vse Transform Tools https://github.com/doakey3/VSE_Transform_Tools
 
-Freesound https://github.com/iwkse/freesound CURRENTLY DISABLED
+Freesound https://github.com/iwkse/freesound Will need API key in Preferences.
 
-Push To Talk https://github.com/britalmeida/push_to_talk
+Push To Talk https://github.com/britalmeida/push_to_talk Will need ffmpeg installed.
 
 # Install:
 [![](http://img.youtube.com/vi/ufSyony6eRE/0.jpg)](http://www.youtube.com/watch?v=ufSyony6eRE "")
