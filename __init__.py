@@ -55,7 +55,7 @@ def load_handler(dummy):
         "VSE_Easy_Proxy",
         "push_to_talk",
         "VSE_Transform_Tools",
-        #"freesound",
+        "freesound",
         "import_edl",
         "ExportEDL",
         "Subsimport",
