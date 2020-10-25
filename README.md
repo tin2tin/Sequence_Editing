@@ -27,6 +27,7 @@ Power Sequencer https://github.com/GDQuest/blender-power-sequencer
 
 # Install:
 Inatallation process is similar to this:
+
 [![](http://img.youtube.com/vi/ufSyony6eRE/0.jpg)](http://www.youtube.com/watch?v=ufSyony6eRE "")
 - Download: Code - Download Zip
 - Unzip
