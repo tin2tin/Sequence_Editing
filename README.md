@@ -26,7 +26,7 @@ Push To Talk https://github.com/britalmeida/push_to_talk Will need ffmpeg instal
 Power Sequencer https://github.com/GDQuest/blender-power-sequencer
 
 # Install:
-Inatallation process is similar to this:
+Installation process is similar to this:
 
 [![](http://img.youtube.com/vi/ufSyony6eRE/0.jpg)](http://www.youtube.com/watch?v=ufSyony6eRE "")
 - Download: Code - Download Zip
