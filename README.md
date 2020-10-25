@@ -21,6 +21,10 @@ Freesound https://github.com/iwkse/freesound Will need API key in Preferences.
 
 Push To Talk https://github.com/britalmeida/push_to_talk Will need ffmpeg installed.
 
+# Enabled Add-on and integrated in existing menus
+
+Power Sequencer https://github.com/GDQuest/blender-power-sequencer
+
 # Install:
 [![](http://img.youtube.com/vi/ufSyony6eRE/0.jpg)](http://www.youtube.com/watch?v=ufSyony6eRE "")
 - Download: Code - Download Zip
