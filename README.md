@@ -9,8 +9,6 @@ EDL Export https://github.com/tin2tin/ExportEDL
 
 EDL Import https://github.com/tin2tin/import_edl
 
-Playback Controls In Vse Header
-
 Subsimport https://github.com/doakey3/Subsimport
 
 Vse Easy Proxy https://github.com/cgvirus/blender-vse-easy-proxy Will need ffmpeg path in Preferences.
@@ -21,9 +19,7 @@ Freesound https://github.com/iwkse/freesound Will need API key in Preferences.
 
 Push To Talk https://github.com/britalmeida/push_to_talk Will need ffmpeg installed.
 
-# Enabled Add-on and integrated in existing menus
-
-Power Sequencer https://github.com/GDQuest/blender-power-sequencer
+Playback Controls In VSE Header, Project settings in Sidebar and VSE Reworked operators in menus.
 
 # Install:
 [![](http://img.youtube.com/vi/ufSyony6eRE/0.jpg)](http://www.youtube.com/watch?v=ufSyony6eRE "")
