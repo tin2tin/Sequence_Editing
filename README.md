@@ -1,5 +1,5 @@
 # Sequence_Editing
-A Sequence Editing workspace for Blender with add-ons included.
+A Sequence Editing workspace for Blender with add-ons included.For Blender 2.80-2.91(2.92 will not work)
 
 
 # Screenshot
