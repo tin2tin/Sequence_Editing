@@ -31,6 +31,11 @@ def load_handler(dummy):
             params = space.params
             params.use_filter_folder = True
 
+    user_prefs = context.preferences
+    user_prefs.edit.undo_steps = 100
+    user_prefs.view.show_tooltips_python = True
+    user_prefs.view.show_developer_ui = True
+
     path_to_script_dir = os.path.dirname(os.path.abspath(__file__))
     file_list = sorted(os.listdir(path_to_script_dir))
 
